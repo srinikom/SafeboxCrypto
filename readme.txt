@@ -2,11 +2,10 @@ This is the Crypto engine used in Safebox http://safebox.fabulasolutions.com/
 
 Code is licensed under New BSD License (http://www.opensource.org/licenses/bsd-license.php) 
 
-Examples will be added to verify Safebox output with this library and vice versa.
+Examples will be added to the repo.
 
 Technical Details:
-Please read/review http://safebox.fabulasolutions.com/p/safebox-crypto-architecture.html for more details
-on the system level details about algorithms used. 
+http://safebox.fabulasolutions.com/p/safebox-crypto-architecture.html (includes system level details and algorithms used)
 
 Special thanks to PyCrypto maintainers and authors of amazing crypto algorithms.
 
